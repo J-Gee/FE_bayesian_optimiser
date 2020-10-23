@@ -1,0 +1,20 @@
+objective,Use Bayesian search optimiser with the formulation engine to improve photocatalysts.
+description,Carbon nitride optimisation
+hazard_1,H301: Toxic if swallowed
+hazard_2,H318: Causes serious eye damage
+hazard_3,H290: May be corrosive to metals
+illumination_time_secs,3600
+measurement_method,Mass Spectrometer
+o2_level,Near 0%
+cap_vials,Yes
+solid_dispensing_finish_date_time,
+rack_identifier,
+solid_dispenser,LIFE_XYZ_QUANTOS
+liquid_dispenser,LIFE_XYZ_SYRINGE
+orbital_speed_rpm,30
+orbital_id,LIFE_FE01_ORBITAL
+
+
+
+SampleIndex,SampleNumber,Name,pt/gcn2,TEOA-0-5VV,NaCl-3M,NaOH-1M,PVP-1wt,SDS-1wt,MethyleneB-250mgL,AcidRed87-1gL,RhodamineB-1gL,SodiumSilicate-1wt,water
+${idx},${sample_number},${batch_name}_${sample_number},${pt/gcn2},${TEOA-0-5VV},${NaCl-3M},${NaOH-1M},${PVP-1wt},${SDS-1wt},${MethyleneB-250mgL},${AcidRed87-1gL},${RhodamineB-1gL},${SodiumSilicate-1wt},${water}
