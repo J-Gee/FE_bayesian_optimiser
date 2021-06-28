@@ -5,8 +5,8 @@ generate submission files with the points.
 directory_path is the class variable pointing to the running directory 
 containing folders runqueue, running, completed.
 
-Adapted for the Chemspeed by Jack Gee
-Provides csv files for use with Chemspeed.
+Adapted for the Formulation Engine by Jack Gee
+
 
 '''
 import pandas as pd
